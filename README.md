@@ -1,5 +1,7 @@
 # Cow-race-classificator
 
+(It is my first project of image classification)
+
 The idea of the project is to make a tensorflow model which would recognize differents races of cows and if its race is pure or not (n+1 classes, n races and another one for not pure cows)
 
 The notebook was made for two races but the idea is to upgrade it over time if it is able to create models with good performance.
